@@ -45,6 +45,7 @@ I'm a software developer who is constantly improving myself and eager to learn n
 - **[maarifhan-be](https://github.com/akifkomurcu/maarifhan-be)**: Backend for the AI-supported education platform developed with NestJS.
 - **[TapLocks](https://github.com/akifkomurcu/TapLocks)**: A macOS application developed with Swift.
 - **[Shelf](https://github.com/akifkomurcu/shelf)**: A macOS application that allows you to manage and hide menu bar icons using native Command + Drag gestures. Developed with Swift.
+- **[Ay Gözlemcisi (Moon Tracker)](https://apps.apple.com/tr/app/ay-g%C3%B6zlemcisi/id6755927447?l=tr)**: A comprehensive iOS application for tracking moon phases and lunar cycles. Developed with React Native.
 
 ---
 
