@@ -19,6 +19,7 @@ I'm a software developer who is constantly improving myself and eager to learn n
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
@@ -47,6 +48,7 @@ I'm a software developer who is constantly improving myself and eager to learn n
 - **[Shelf](https://github.com/akifkomurcu/shelf)**: A macOS application that allows you to manage and hide menu bar icons using native Command + Drag gestures. Developed with Swift.
 - **[Ay Gözlemcisi (Moon Tracker)](https://apps.apple.com/tr/app/ay-g%C3%B6zlemcisi/id6755927447?l=tr)**: A comprehensive iOS application for tracking moon phases and lunar cycles. Developed with React Native.
 - **[FloatX (Sliding Apps)](https://github.com/akifkomurcu/sliding-apps)**: A cutting-edge Android utility designed to bring multi-tasking to the next level with a dynamic floating hub. Developed with Kotlin.
+- **[Product Alarm](https://github.com/akifkomurcu/product-alarm)**: A scraper project for price tracking application. It tracks prices from multiple sources like Akakçe, Trendyol, and Hepsiburada, providing real-time Telegram notifications. Developed with Python and dockerized.
 
 ---
 
