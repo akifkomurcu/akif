@@ -42,7 +42,7 @@ I'm a software developer who is constantly improving myself and eager to learn n
 
 ## 🌟 Featured Projects
 
-- **[Apptionly](https://apptionly.com/)**: A web application featuring canvas rendering, undo/redo capabilities, and PWA support. Developed with React 19, Zustand, Tailwind 4, and Supabase.
+- **[Apptionly](https://apptionly.com/)**: An App Store screenshot generator web application featuring canvas rendering, undo/redo capabilities, and PWA support. Developed with React 19, Zustand, Tailwind 4, and Supabase.
 - **[maarifhan](https://github.com/akifkomurcu/maarifhan)**: An AI-supported education platform developed with Angular.
 - **[maarifhan-be](https://github.com/akifkomurcu/maarifhan-be)**: Backend for the AI-supported education platform developed with NestJS.
 - **[TapLocks](https://github.com/akifkomurcu/TapLocks)**: A macOS application developed with Swift.
