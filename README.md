@@ -1,12 +1,4 @@
-# 👋 Hi, I'm Akif Kömürcü!
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Software%20Developer&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%" />
-</p>
-
-## 🚀 About Me
-I'm a software developer who is constantly improving myself and eager to learn new technologies. I build and lead projects using technologies like JavaScript, Swift, and React Native.
----
+# Hi, I'm Akif Kömürcü
 
 ## 🛠️ Skills & Tools
 
@@ -20,22 +12,6 @@ I'm a software developer who is constantly improving myself and eager to learn n
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
----
-
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akifkomurcu&theme=tokyo-night" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akifkomurcu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akifkomurcu&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
 ---
